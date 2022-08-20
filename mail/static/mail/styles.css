@@ -1,0 +1,24 @@
+textarea {
+    min-height: 400px;
+}
+
+.read-email {
+    background-color: rgb(195, 195, 195);
+}
+
+.unread-email{
+    background-color: white;
+}
+
+#email {
+    border: 0.1px solid black;
+}
+
+#archive-button {
+    width: 25px;
+    height: 25px;
+}
+
+.row {
+    border: 0.1px solid black;
+}
